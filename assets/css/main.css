@@ -2524,7 +2524,7 @@ ul.feature-icons-all {
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			/*padding: 0.75em 0.75em;*/
 		}
 
 		table th {
@@ -2731,7 +2731,7 @@ ul.feature-icons-all {
 		.features article .image {
 			display: inline-block;
 			padding-right: 2.5em;
-			vertical-align: middle;
+			vertical-align: top;
 			width: 48%;
 		}
 
